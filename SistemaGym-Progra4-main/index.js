@@ -2,7 +2,7 @@
 //Uso de express
 //const express = require("express");
 //Modulo path
-const path = require("path");
+//const path = require("path");
 
 const methodOverride =  require('method-override');
 const session =  require('express-session');
